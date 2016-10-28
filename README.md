@@ -7,10 +7,10 @@ job store using 'cassandra' as an argument. An example implementation can be fou
 directory.
 
 ## Source
-The source can be browsed at `Github <https://github.com/ccoovrey/cassandra-apscheduler>`_.
+The source can be browsed at [Github](https://github.com/ZyncUp/cassandra-apscheduler)
 
 
 ## Reporting bugs
-A `bug tracker <https://github.com/ccoovrey/cassandra-apscheduler/issues>`_ is provided by Github.
+[bug tracker](https://github.com/ZyncUp/cassandra-apscheduler/issues) is provided by Github.
 
 
