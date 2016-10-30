@@ -20,7 +20,7 @@ try:
     from datetime import datetime
 
 except ImportError:  # pragma: nocover
-    raise ImportError('CassandraJobStore requires cassandra-driver-dse installed')
+    raise ImportError('CassandraJobStore requires cassandra-driver installed')
 
 DESC = 'DESC'
 ASC = 'ASC'
